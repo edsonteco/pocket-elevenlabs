@@ -1,0 +1,8 @@
+/.DS_Store
+/Comprimido.zip
+cache/
+api/logs/
+api/storage/
+.cursorrules
+substituir.sh
+regras_substituicao.txt
